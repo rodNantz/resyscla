@@ -1,0 +1,9 @@
+[submodule "mobile-recysclagem"]
+	path = mobile-recysclagem
+	url = https://gitlab.com/rebecademelo/mobile-recysclagem.git
+[submodule "web-resysclagem"]
+	path = web-resysclagem
+	url = https://gitlab.com/rodtwo/web-resysclagem.git
+[submodule "ws-resysclagem"]
+	path = ws-resysclagem
+	url = https://gitlab.com/rodtwo/ws-resysclagem.git
